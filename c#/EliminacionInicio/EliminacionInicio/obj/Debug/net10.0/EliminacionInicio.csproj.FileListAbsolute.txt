@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\bin\Debug\net10.0\EliminacionInicio.exe
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\bin\Debug\net10.0\EliminacionInicio.deps.json
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\bin\Debug\net10.0\EliminacionInicio.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\bin\Debug\net10.0\EliminacionInicio.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\bin\Debug\net10.0\EliminacionInicio.pdb
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\obj\Debug\net10.0\EliminacionInicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\obj\Debug\net10.0\EliminacionInicio.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\obj\Debug\net10.0\EliminacionInicio.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\obj\Debug\net10.0\EliminacionInicio.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\obj\Debug\net10.0\EliminacionInicio.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\obj\Debug\net10.0\refint\EliminacionInicio.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\obj\Debug\net10.0\EliminacionInicio.pdb
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\obj\Debug\net10.0\EliminacionInicio.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\EliminacionInicio\EliminacionInicio\obj\Debug\net10.0\ref\EliminacionInicio.dll
