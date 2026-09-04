@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\bin\Debug\net10.0\InsercionInicio.exe
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\bin\Debug\net10.0\InsercionInicio.deps.json
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\bin\Debug\net10.0\InsercionInicio.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\bin\Debug\net10.0\InsercionInicio.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\bin\Debug\net10.0\InsercionInicio.pdb
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\obj\Debug\net10.0\InsercionInicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\obj\Debug\net10.0\InsercionInicio.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\obj\Debug\net10.0\InsercionInicio.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\obj\Debug\net10.0\InsercionInicio.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\obj\Debug\net10.0\InsercionInicio.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\obj\Debug\net10.0\refint\InsercionInicio.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\obj\Debug\net10.0\InsercionInicio.pdb
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\obj\Debug\net10.0\InsercionInicio.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionInicio\InsercionInicio\obj\Debug\net10.0\ref\InsercionInicio.dll

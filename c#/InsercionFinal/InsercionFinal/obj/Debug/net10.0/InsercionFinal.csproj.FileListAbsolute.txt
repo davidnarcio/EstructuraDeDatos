@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\bin\Debug\net10.0\InsercionFinal.exe
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\bin\Debug\net10.0\InsercionFinal.deps.json
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\bin\Debug\net10.0\InsercionFinal.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\bin\Debug\net10.0\InsercionFinal.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\bin\Debug\net10.0\InsercionFinal.pdb
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\obj\Debug\net10.0\InsercionFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\obj\Debug\net10.0\InsercionFinal.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\obj\Debug\net10.0\InsercionFinal.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\obj\Debug\net10.0\InsercionFinal.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\obj\Debug\net10.0\InsercionFinal.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\obj\Debug\net10.0\refint\InsercionFinal.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\obj\Debug\net10.0\InsercionFinal.pdb
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\obj\Debug\net10.0\InsercionFinal.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\InsercionFinal\InsercionFinal\obj\Debug\net10.0\ref\InsercionFinal.dll
