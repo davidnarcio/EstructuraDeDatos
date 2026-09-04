@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\bin\Debug\net10.0\BusquedaBinaria.exe
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\bin\Debug\net10.0\BusquedaBinaria.deps.json
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\bin\Debug\net10.0\BusquedaBinaria.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\bin\Debug\net10.0\BusquedaBinaria.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\bin\Debug\net10.0\BusquedaBinaria.pdb
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\obj\Debug\net10.0\refint\BusquedaBinaria.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.pdb
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\BusquedaBinaria\BusquedaBinaria\obj\Debug\net10.0\ref\BusquedaBinaria.dll
