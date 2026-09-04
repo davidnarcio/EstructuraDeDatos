@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\bin\Debug\net10.0\recorridosecuencial.exe
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\bin\Debug\net10.0\recorridosecuencial.deps.json
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\bin\Debug\net10.0\recorridosecuencial.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\bin\Debug\net10.0\recorridosecuencial.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\bin\Debug\net10.0\recorridosecuencial.pdb
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\obj\Debug\net10.0\recorridosecuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\obj\Debug\net10.0\recorridosecuencial.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\obj\Debug\net10.0\recorridosecuencial.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\obj\Debug\net10.0\recorridosecuencial.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\obj\Debug\net10.0\recorridosecuencial.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\obj\Debug\net10.0\refint\recorridosecuencial.dll
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\obj\Debug\net10.0\recorridosecuencial.pdb
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\obj\Debug\net10.0\recorridosecuencial.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\estructura de datos\c#\recorridosecuencial\recorridosecuencial\obj\Debug\net10.0\ref\recorridosecuencial.dll
